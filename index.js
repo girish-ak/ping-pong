@@ -151,7 +151,7 @@ function iscollide(){
         ball.dy = -ball.dy
     }
     if(ball.x < ball.radius){
-       // alert("Game Over!\nYour Score is : "+score)
+        alert("Game Over!\nYour Score is : "+score)
         setVariables()
     }
   
