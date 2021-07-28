@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+
+body{
+    background-color: #2274A5;
+}
+
+h1{
+    position: absolute;
+    margin-top: 30px;
+    right : 30px;
+    font-size: 62px;
+    font-family: 'Orbitron', sans-serif;
+    color: #F1c40f;
+}
+
+#scorebox{
+    margin-top: 200px;
+    position: absolute;
+    right : 130px;
+    font-size: 36px;
+    font-family: 'Orbitron', sans-serif;
+    color: #F1c40f;
+}
+
+#highscore{
+    margin-top: 300px;
+    position: absolute;
+    right : 90px;
+    font-size: 36px;
+    font-family: 'Orbitron', sans-serif;
+    color: #F1c40f;
+}
+
+canvas{
+    border: 4px solid #D90368;
+    outline: 6px solid #f75c03;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+#button1{
+
+    background: none;
+    height: 65px;
+    width: 65px;
+    display: block;
+    position: absolute; 
+    right: 25px;
+    margin-top: 550px;
+    border: none;
+    
+}
+
+
+#soundImage{
+    background: no-repeat;
+    height: 65px;
+    width: 65px;
+    display: block;
+    position: absolute; 
+    right: 50px;
+    user-select: none;
+    margin-top: 550px;
+    transform: scale(0.8);
+}
