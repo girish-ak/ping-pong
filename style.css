@@ -38,29 +38,3 @@ canvas{
     margin-top: 25px;
     margin-left: 25px;
 }
-
-#button1{
-
-    background: none;
-    height: 65px;
-    width: 65px;
-    display: block;
-    position: absolute; 
-    right: 25px;
-    margin-top: 550px;
-    border: none;
-    
-}
-
-
-#soundImage{
-    background: no-repeat;
-    height: 65px;
-    width: 65px;
-    display: block;
-    position: absolute; 
-    right: 50px;
-    user-select: none;
-    margin-top: 550px;
-    transform: scale(0.8);
-}
